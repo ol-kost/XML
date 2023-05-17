@@ -1,1 +1,12 @@
-
+<Bugreport>
+          <id>111</id>
+          <severity> minor </severity>
+          <priority> low </priority>
+          <title>M</title>
+          <stepsToReproduce>1-2-3</stepsToReproduce>
+          <precondition>none</precondition>
+          <expectedResult>123</expectedResult>
+          <actualResult>222</actualResult>
+          <attachment>URL </attachment>
+          <postcondition>none</postcondition>
+</Bugreport>  
